@@ -5,7 +5,7 @@ This guide covers how to set up Ansible on Amazon Linux EC2 instances to automat
 ---                                                                                                                  
                                                                                       
 ## 🧱 Step 0: Create Amazon Linux VMs
-                                                    
+                                                                                      
 - Launch **3 EC2 Instances** (Amazon Linux 2, t2.micro, Free Tier eligible):
   - **1 Control Node** (Ansible will be installed here)
   - **2 Managed Nodes** (will be managed by the control node)
