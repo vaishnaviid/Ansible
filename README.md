@@ -12,7 +12,7 @@ This guide covers how to set up Ansible on Amazon Linux EC2 instances to automat
 - Connect to all instances using **MobaXterm** or your preferred SSH client.
                               
 ---                                                                                              
-                            
+                                                              
 ## ⚙️ Step 1: Setup User & Configure Access (Run on All 3 VMs)
 
 ```bash
