@@ -3,7 +3,7 @@
 This guide covers how to set up Ansible on Amazon Linux EC2 instances to automate configuration management.
                                                                         
 ---                                                                                                                     
-                                                                                              
+                                                                                                   
 ## 🧱 Step 0: Create Amazon Linux VMs                                    
                                                                                       
 - Launch **3 EC2 Instances** (Amazon Linux 2, t2.micro, Free Tier eligible):
